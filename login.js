@@ -39,10 +39,6 @@ function send(){
     number2 = "";
 
     document.getElementById("output").style.display = "block";
-
-    document.getElementById("number1_div").style.display = "none";
-    document.getElementById("number2_div").style.display = "none";
-    document.getElementById("send_button").style.display = "none";
 }
 
 function check(){
